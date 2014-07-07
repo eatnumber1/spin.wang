@@ -1,18 +1,16 @@
 # Site settings
 title: PrankDNS
 description: DNS hijack your friends
-domain: prank.domains
+domain: spin.wang
 # TODO: Figure out how not to need this.
-url: "http://prank.domains"
+url: "http://spin.wang"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
 
 # SpinWang
-#analytics_tracking_id: UA-10349264-3
-
-analytics_tracking_id: UA-10349264-4
+analytics_tracking_id: UA-10349264-3
 
 ga_displayfeatures: true
 ga_attribution: true

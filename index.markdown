@@ -14,12 +14,9 @@ they'll instead arrive at a suitable prank website.
 
 The websites currently served by PrankDNS are:
 
- * [Leekspin]
- * [Chicken on a Raft][ChickenOnARaft]
+ * [Meatspin]
 
-{% comment %}
-Also see the [NSFW version][spin.wang]!
-{% endcomment %}
+Also see the safe for work [version][prank.domains]!
 
 ## How
 
@@ -28,10 +25,10 @@ Just configure your friend's DNS server to the following addresses:
 |---------------+--------------------|
 |      IPv4     |        IPv6        |
 |:-------------:|:------------------:|
-| 50.116.13.220 | 2600:3c01::31:d00e |
+| 50.116.14.180 | 2600:3c01::31:d00d |
 |---------------+--------------------|
 
-For convenience, the domain `ns.prank.domains` points at these addresses.
+For convenience, the domain `ns.spin.wang` points at these addresses.
 
 ## Contribute
 
@@ -39,7 +36,6 @@ I'm [@eatnumber1] and I'd love to hear what you think, especially if you have
 suggestions for additional suitable prank websites to add to the rotation.
 
 [OpenDNS]: http://opendns.com
-[Leekspin]: http://leekspin.com
-[ChickenOnARaft]: http://chickenonaraft.com
-[spin.wang]: http://spin.wang
+[Meatspin]: http://meatspin.com
+[prank.domains]: http://prank.domains
 [@eatnumber1]: http://rus.har.mn
