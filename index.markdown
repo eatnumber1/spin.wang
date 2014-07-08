@@ -15,6 +15,7 @@ they'll instead arrive at a suitable prank website.
 The websites currently served by {{ site.title }} are:
 
  * [Meatspin]
+ * [goat.sexy]
 
 Also see the safe for work [version][prank.domains]!
 
@@ -41,3 +42,4 @@ suggestions for additional suitable prank websites to add to the rotation.
 [prank.domains]: http://prank.domains
 [@eatnumber1]: http://rus.har.mn
 [NXDOMAIN]: http://www.dnsknowledge.com/whatis/nxdomain-non-existent-domain-2/
+[goat.sexy]: http://goat.sexy
