@@ -245,3 +245,19 @@ a {
 .cf {
   zoom:1;
 }
+
+.stamp {
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+
+  position: relative;
+  left: -10px;
+  top: -15px;
+  color: rgb(255,0,0);
+}
+
+.inline-block { display: inline-block; }
+
+/* vim: set et ts=2 sw=2 sts=2 ai: */
